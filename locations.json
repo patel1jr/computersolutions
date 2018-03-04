@@ -1,0 +1,29 @@
+[
+  {
+    "id":1,
+    "name":"Lynn Location",
+    "street_address":"345 Western Ave",
+    "city":"utah",
+    "state":"MA",
+    "zip":"09234",
+    "phone":"764-485-9878"
+  },
+  {
+    "id":2,
+    "name":"Amesbury Location",
+    "street_address":"345 Western Ave",
+    "city":"utah",
+    "state":"MA",
+    "zip":"09234",
+    "phone":"764-485-9878"
+  },
+  {
+    "id":3,
+    "name":"Lynn Location",
+    "street_address":"345 Western Ave",
+    "city":"utah",
+    "state":"MA",
+    "zip":"09234",
+    "phone":"764-485-9878"
+  }
+]
